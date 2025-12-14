@@ -1,0 +1,12 @@
+# Django
+SECRET_KEY=django-insecure-%c$@)r)_w64p(r^(&s1=db9^=v9u&bw&@d&wp1(+(=t8*cqwyn
+DEBUG=False
+ALLOWED_HOSTS=18.234.1.99,localhost,127.0.0.1
+
+# Base de Datos MySQL
+DB_NAME=smartconnect_db
+DB_USER=adminsmart
+DB_PASSWORD=admin123$#
+DB_HOST=localhost
+DB_PORT=3306
+
